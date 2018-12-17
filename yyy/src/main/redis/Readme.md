@@ -1,0 +1,1 @@
+windows download: https://github.com/MicrosoftArchive/redis/releases
