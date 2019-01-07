@@ -1,5 +1,3 @@
-package test;
-
 import static util.Util.println;
 import static util.Util.swap;
 
