@@ -1,7 +1,5 @@
-package test;
-
 // 旋转数组  345123  求最小值
-public class AA {
+public class 旋转数组求最小值 {
     public static void main(String[] args) {
         System.out.println(find("3333343333333"));
         System.out.println(find("123456"));
