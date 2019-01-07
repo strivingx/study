@@ -4,7 +4,7 @@ import static util.Util.swap;
 import java.util.Arrays;
 
 // 全排列，有序，去重
-public class Permutation {
+public class 数组字典序去重全排列 {
     public static void main(String[] args) {
         permutation("abc".toCharArray());
         permutation("abbc".toCharArray());
